@@ -11,7 +11,7 @@ Gooey is a Vue UI like engine for golang intended to provide a dashboard for the
     cd gooey
     make build
 
-## Build with
+## Built with
  - [Go](https://golang.org/)
 
 ## Versioning
